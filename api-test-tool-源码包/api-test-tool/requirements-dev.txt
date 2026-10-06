@@ -1,0 +1,3 @@
+# 开发/演示用的额外依赖
+flask>=2.0        # tools/mock_server.py 本地假接口服务
+pyinstaller>=6.0  # 打包 exe
