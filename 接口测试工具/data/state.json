@@ -1,0 +1,1 @@
+{"config": {"baseUrl": "", "encoding": "utf-8", "timeout": 30, "verifySsl": false, "stopOnAssertFail": true, "headers": [{"key": "Content-Type", "value": "application/json;charset=utf-8", "enabled": true}, {"key": "Accept", "value": "application/json", "enabled": true}]}, "cases": [], "scenarios": [], "fileName": "", "vars": {}}
